@@ -15,7 +15,7 @@ role: Undergrad @ UCLA
 
 # Organizations/Affiliations
 organizations:
-- name: 
+- name: Innovator • Techie • Changemaker
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
