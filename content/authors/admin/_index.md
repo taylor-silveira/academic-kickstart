@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Taylor Silveira
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Undergrad @ UCLA
+
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of California, Los Angeles
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
