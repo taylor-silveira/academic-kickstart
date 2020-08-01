@@ -16,10 +16,10 @@ role: Undergrad @ UCLA
 # Organizations/Affiliations
 organizations:
 - name: 
-  url: 
+  url: Innovator • Techie • Changemaker
 
 # Short bio (displayed in user profile at end of posts)
-bio: Innovator • Techie • Changemaker
+bio: 
 
 interests:
 - Artificial Intelligence
