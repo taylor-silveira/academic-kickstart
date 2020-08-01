@@ -16,10 +16,10 @@ role: Undergrad @ UCLA
 # Organizations/Affiliations
 organizations:
 - name: 
-  url: Innovator • Techie • Changemaker
+  url: 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Innovator • Techie • Changemaker
 
 interests:
 - Artificial Intelligence
